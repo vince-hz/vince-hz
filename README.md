@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @vince-hz
+- 👋 Hi, I’m @vince
 - 👀 I’m interested in iOS & Web
