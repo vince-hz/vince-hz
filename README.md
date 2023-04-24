@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @vince
-- 👀 I’m interested in iOS & Web
+- 👋 I’m @vince
+- 👀 Interested in iOS
