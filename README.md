@@ -1,2 +1,1 @@
 - 👋 I’m @vince
-- 👀 Interested in iOS
