@@ -1,7 +1,9 @@
-Experienced Apple developer 🍎.
+👨‍💻 Experienced Apple developer.
 
-Creator of [FrameSnap](https://framesnap.dajiba.club/). A iOS tool dealing images in video.
+📱 Creator of FrameSnap – an iOS tool for working with images in video.
 
-UIKit for product; SwiftUI for fast.
+🧰 UIKit for product; ⚡ SwiftUI for speed.
 
-Getting along with AI.
+🌐 Embracing web.
+
+🤖 Getting along with AI.
