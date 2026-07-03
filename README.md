@@ -7,5 +7,5 @@
 🤖 Going all-in on AI-native software development.
 
 <div align="left">
-  <img align="center" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince-hz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="center" width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vince-hz&theme=react&exclude=HTML" alt="top langs" />
 </div>
